@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisdurvesh&label=Profile%20views&color=0e75b6&style=flat" alt="owaisdurvesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisdurvesh" alt="owaisdurvesh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadOwais4
+" alt="MuhammadOwais4" /></a> </p>
 
 - MERN Stack Developer [Weather -Applicaton](https://weather-application-34913.web.app/)
 
