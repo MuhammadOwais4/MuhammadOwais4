@@ -10,7 +10,7 @@
 
 - React js Developer [Ludo-Game](https://ludo-app-rho.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://my-resume-neon-seven.vercel.app/](https://my-resume-neon-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-resume-neon-seven.vercel.app/](https://my-resume-amber.vercel.app/)
 
 - 💬 Ask me about **| MERN stack developer | React js Developer |Node js Developer | JavaScript Developer |Mobile App Developer (React Native)**
 
