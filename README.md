@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Muhammad OwaisUniverse!
+  Welcome to Muhammad Owais
 </h3>
 
 <p align="center">
