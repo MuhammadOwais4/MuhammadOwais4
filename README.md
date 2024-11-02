@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://github.com/MuhammadOwais4/MuhammadOwais4">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MuhammadOwais4"/></a>
-  <a href="https://github.com/Hashir-Khan777">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Hashir-Khan777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/MuhammadOwais4">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MuhammadOwais4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -49,5 +49,5 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hashir-Khan777&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Muhammad Owais"  />
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jaffar Abbas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Khan777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadOwais4&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Muhammad Owais"  />
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jaffar Abbas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadOwais4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
